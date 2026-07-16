@@ -16,7 +16,7 @@ Computer Science Student • Building Agentic AI Systems • Full-Stack Develope
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/gifs/hacker.gif"/>
 
 - 🔭 Currently building **AI Research Agent V2**, an agentic AI system powered by **LangGraph, FastAPI, MongoDB & LLMs**
 - 🌱 Currently learning **Advanced Agentic AI, Multi-Agent Systems, MCP, LLMOps, and Advanced MERN Development**
@@ -70,13 +70,15 @@ Computer Science Student • Building Agentic AI Systems • Full-Stack Develope
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sk-husamuddin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sk-husamuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-husamuddin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sk-husamuddin&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
+
+> **Note:** If the stats/streak cards above don't render, it's usually the free `vercel.app` / `demolab.com` demo servers being rate-limited — not an error in this file. Refresh after a few minutes, or deploy your own free instance from the [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats#deploy-your-own-instance) repos for a permanently reliable version.
 
 ---
 
@@ -93,6 +95,35 @@ Computer Science Student • Building Agentic AI Systems • Full-Stack Develope
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sk-husamuddin/Sk-husamuddin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
+> **Note:** This image only appears once the Snake workflow has run at least once and created the `output` branch. If it's still broken, add this workflow to your profile repo:
+> `.github/workflows/snake.yml`
+> ```yaml
+> name: generate animation
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+>
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: actions/checkout@v4
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Sk-husamuddin
+>           outputs: dist/github-contribution-grid-snake-dark.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> Commit that file, run it once manually from the Actions tab, and the `output` branch + SVG will be created automatically.
 
 ---
 
