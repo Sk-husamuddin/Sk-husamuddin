@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shaik Husamuddin</h1>
 
 <h3 align="center">
-AI/ML Student • Building Agentic AI Systems • Full-Stack Developer • LangGraph • RAG • LLMs
+Computer Science Student • Building Agentic AI Systems • Full-Stack Developer • LangGraph • RAG • LLMs
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI%2FML+Student;Building+Agentic+AI+Systems;Full-Stack+Developer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shaik+Husamuddin;AI%2FML+Student;Building+Agentic+AI+Systems;Full-Stack+Developer;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,7 +38,7 @@ AI/ML Student • Building Agentic AI Systems • Full-Stack Developer • LangG
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/Husamuddin-Shaik">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -64,7 +62,7 @@ AI/ML Student • Building Agentic AI Systems • Full-Stack Developer • LangG
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,mongodb,fastapi,git,github,vscode,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,mongodb,fastapi,git,github,vscode,postman"/>
 
 </p>
 
@@ -74,10 +72,9 @@ AI/ML Student • Building Agentic AI Systems • Full-Stack Developer • LangG
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **AI Research Agent V2** | Agentic AI Research Assistant built using LangGraph, FastAPI, MongoDB and LLMs |
+| 🤖 **AI Research Agent V2** *(In Progress)* | Agentic AI Research Assistant built using LangGraph, FastAPI, MongoDB and LLMs |
 | 📄 **PDF RAG Chatbot** | Retrieval-Augmented Generation chatbot for intelligent PDF conversations |
 | 📚 **StudyVault** | MERN Stack application for uploading and managing study resources |
-| 🐄 **PashuSahay** *(In Progress)* | AI-powered platform to assist farmers with cattle disease awareness |
 
 ---
 
