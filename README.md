@@ -99,9 +99,7 @@ LangGraph • ChromaDB • Sentence Transformers • Groq API • OpenAI API •
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sk-husamuddin&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Sk-husamuddin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
