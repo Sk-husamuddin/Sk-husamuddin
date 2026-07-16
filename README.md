@@ -132,12 +132,10 @@ AI/ML Student • Building Agentic AI Systems • Full-Stack Developer • LangG
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sk-husamuddin&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -146,7 +144,7 @@ AI/ML Student • Building Agentic AI Systems • Full-Stack Developer • LangG
 
 <p align="center">
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+> **"Learning never stops. Every project is another step toward becoming a better engineer."** — Shaik Husamuddin
 
 </p>
 
