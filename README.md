@@ -91,14 +91,6 @@ LangGraph • ChromaDB • Sentence Transformers • Groq API • OpenAI API •
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sk-husamuddin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-husamuddin&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sk-husamuddin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
