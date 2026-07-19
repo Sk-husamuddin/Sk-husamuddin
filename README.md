@@ -26,7 +26,7 @@ Computer Science (AI/ML) Student • Agentic AI Developer • Full-Stack Develop
 
 - 👨‍💻 Portfolio: **https://husamuddin-portfolio.vercel.app/**
 
-- 📄 Resume: **https://drive.google.com/file/d/1V3hOo9yG91tDx1foVMbHlnKONldk-z-k/view?usp=sharing**
+- 📄 Resume: **https://drive.google.com/file/d/1kBccLGkqcgYrqp_tYNawJ57bME20gS6M/view?usp=sharing**
 
 - 📫 Reach me at **shaikhusamuddin666@gmail.com**
 
