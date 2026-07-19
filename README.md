@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaik Husamuddin</h1>
+<h1 align="center">Hi , I'm Shaik Husamuddin</h1>
 
 <h3 align="center">
 Computer Science (AI/ML) Student • Agentic AI Developer • Full-Stack Developer • LangGraph • FastAPI • MERN
