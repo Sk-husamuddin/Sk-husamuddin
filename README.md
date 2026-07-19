@@ -47,8 +47,11 @@ Computer Science (AI/ML) Student • Agentic AI Developer • Full-Stack Develop
 <a href="mailto:shaikhusamuddin666@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://husamuddin-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"/>
+</a>
 
-🔗 **[View Live Portfolio](https://husamuddin-portfolio.vercel.app/)**
+
 
 <a href="https://github.com/Sk-husamuddin">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
