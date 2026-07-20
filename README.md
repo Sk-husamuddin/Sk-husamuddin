@@ -140,11 +140,7 @@ LangGraph • ChromaDB • Sentence Transformers • Groq API • OpenAI API •
 
 ---
 
-## 💭 My Philosophy
 
-> **Learning never stops. Every project is another step toward becoming a better engineer.**
-
----
 
 <p align="center">
 
