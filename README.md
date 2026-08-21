@@ -83,12 +83,12 @@ LangGraph • ChromaDB • Sentence Transformers • Groq API • OpenAI API •
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| 🤖 **[AI Research Agent V2](https://github.com/Sk-husamuddin/Research-Agent-Project-v2)** | LangGraph • FastAPI • MongoDB • LLMs | Agentic AI Research Assistant |
+| 🏫 **[LBRCE Reference Desk V2](https://github.com/Sk-husamuddin/lbrce-reference-deskv2)** | LangGraph • Pinecone • FastAPI • Next.js • Groq | Grounded AI Assistant for LBRCE |
+| ⚡ **[ChargeGrid-AI](https://github.com/Sk-husamuddin/ChargeGrid-AI)** | TypeScript • React • Node.js • AI | Smart EV Charging Management Platform |
+| 🤖 **[AI Research Agent V2](https://github.com/Sk-husamuddin/Research-Agent-Project-v2)** | LangGraph • FastAPI • MongoDB • LLMs | Autonomous AI Research Assistant |
 | 📄 **[PDF RAG Chatbot](https://github.com/Sk-husamuddin/PDF-RAG-Chatbot)** | FastAPI • ChromaDB • Sentence Transformers | Chat with PDFs using RAG |
-| 📚 **[StudyVault](https://github.com/Sk-husamuddin/Studyvault)** | MERN Stack | Study Material Sharing Platform |
 
 ---
-
 # 📊 GitHub Statistics
 
 <p align="center">
